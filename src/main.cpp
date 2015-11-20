@@ -1,6 +1,7 @@
 ﻿#include <SFML/Graphics.hpp>
 #include "ResourcePath.h"
 #include "Overlap.h"
+#include "math.h"
 #include <cstdlib>
 #include <ctime>
 
